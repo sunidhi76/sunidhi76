@@ -1,54 +1,47 @@
-# Hi, I'm Sunidhi Mayekar 👋
+# 👋 Hi, I'm Sunidhi Mayekar
 
-🎓 AI & Machine Learning Engineering Student
+### 🎓 AI & ML Engineering Student @ Global Academy of Technology, Bengaluru
 
-### 👩‍💻 About Me
-- Interested in AI, NLP, LLMs, and RAG.
-- Building AI-powered applications and exploring practical ML solutions.
+## 👩‍💻 About Me
 
-### 🔭 Currently Working On
-AI/ML and NLP projects.
+I'm an AIML engineering student building practical projects in **Artificial Intelligence, NLP, and LLM applications**.
 
-### 🌱 Currently Learning
-- Machine Learning
-- Natural Language Processing
-- LLMs and Retrieval-Augmented Generation (RAG)
+- 🔭 Currently working on AI/ML and NLP projects.
+- 🌱 Currently learning Machine Learning, NLP, and RAG.
+- 💬 Ask me about Python, NLP, information extraction, and LLM applications.
+- 🤝 Interested in collaborating on AI/ML projects.
 
-### 🛠️ Tech Stack
+## 🎯 Focus
 
-**Languages:** Python, Java
+**Artificial Intelligence · Machine Learning · NLP · RAG · LLM Applications**
 
-**AI / ML:** Scikit-learn, NLP, NER, TF-IDF, Embeddings, RAG, LLMs
+## 🛠️ Engineering Stack
 
-**Frameworks & Tools:** Flask, Streamlit, spaCy, FAISS, Neo4j, NLTK, Git, GitHub
+**Languages:** Python · Java
 
-**Web:** HTML, CSS, JavaScript
+**AI / ML:** Scikit-learn · Random Forest · TF-IDF · Embeddings · NER
 
-### 🚀 Projects
+**NLP & GenAI:** Information Extraction · RAG · LLM Applications · Prompt Engineering
 
-**CineGraph AI — Movie Knowledge Base**  
-Graph-based movie question answering using Neo4j and RAG/LLM concepts.
+**Applications & Tools:** Flask · Streamlit · spaCy · NLTK · FAISS · Neo4j · Git · GitHub
 
-**Information Extraction System**  
-Extracts entities, relationships, events, and temporal information from documents.
+**Web Development:** HTML · CSS · JavaScript
 
-[View Project →](https://github.com/sunidhi76/Information-Extraction-System)
+## 🚀 Featured Projects
 
-**Resume-Based Job Recommendation System**  
-Resume analysis and job recommendations using NLP and machine learning.
+**CineGraph AI** — Movie question-answering system using Neo4j, knowledge graphs, and RAG/LLM concepts.
 
-**SheSync — Healthcare Assistant**  
-Conversational assistant using intent recognition and named entity extraction.
+**Resume-Based Job Recommendation System** — Resume analysis and job matching using NLP, TF-IDF, and machine learning.
 
-[View Project →](https://github.com/sunidhi76/SheSync)
+**Information Extraction System** — Document-based extraction of entities, relationships, events, and temporal information with interactive graph visualizations.
+
+[View Repository →](https://github.com/sunidhi76/Information-Extraction-System)
+
+**SheSync** — Women's healthcare application focused on symptom assessment and healthcare guidance.
+
+[View Repository →](https://github.com/sunidhi76/SheSync)
 
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunidhi76&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunidhi76&layout=compact&theme=tokyonight&hide_border=true)
-
-### 📫 Connect With Me
+## 🔗 Connect
 
 [GitHub](https://github.com/sunidhi76) · [Email](mailto:mayekarsunidhi0029@gmail.com)
