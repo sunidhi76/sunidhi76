@@ -29,17 +29,12 @@ I'm an AIML engineering student building practical projects in **Artificial Inte
 
 ## 🚀 Featured Projects
 
-**CineGraph AI** — Movie question-answering system using Neo4j, knowledge graphs, and RAG/LLM concepts.
-
-**Resume-Based Job Recommendation System** — Resume analysis and job matching using NLP, TF-IDF, and machine learning.
-
-**Information Extraction System** — Document-based extraction of entities, relationships, events, and temporal information with interactive graph visualizations.
-
-[View Repository →](https://github.com/sunidhi76/Information-Extraction-System)
-
-**SheSync** — Women's healthcare application focused on symptom assessment and healthcare guidance.
-
-[View Repository →](https://github.com/sunidhi76/SheSync)
+| Project | Description | Tech Stack |
+|---|---|---|
+| **CineGraph AI** | Movie question answering using a knowledge graph | Python, Neo4j, RAG, LLMs |
+| **Information Extraction System** | Extracts entities, relationships, events, and temporal information from documents | Python, Streamlit, spaCy, NetworkX, Plotly |
+| **Job Recommendation System** | Resume analysis and job matching using NLP and machine learning | Python, Flask, Scikit-learn, NLTK |
+| **SheSync** | Women's healthcare application for symptom assessment and guidance | Python, Flask, Web Technologies |
 
 
 ## 🔗 Connect
